@@ -1,1 +1,1 @@
-# A repository of ontologiues
+# A repository of ontologies
