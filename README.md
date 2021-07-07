@@ -1,1 +1,1 @@
-# nimonika.github.io
+# A repository of ontologies
